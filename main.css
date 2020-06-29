@@ -29,4 +29,7 @@ tbody {
 #chat {
     background-color: rgb(255, 208, 215);
 }
-
+.hi{
+  border-bottom: solid 3px darkgoldenrod;
+  text-align: center;
+}
